@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NiharykaSingh
-- 👀 I’m interested in securing a job in field of data analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently pursuing PG Diploma in Business Analaytics from BITS Pilani.
+- 🌱 I’m currently looking to restart my career in field of Analytics.
+- 💞️ I’m looking to collaborate on projects in SQL, Python and PowerBi.
+- 📫 Feel free to reach me on sniharika294@gmail.com
 
 <!---
 NiharykaSingh/NiharykaSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
